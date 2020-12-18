@@ -1,6 +1,6 @@
 ### Hi, I'm Alfred! 👋
 
-- 📫 How to reach me: email me @alfredzhuang1234@gmail.com
+- 📫 How to reach me: Feel free to email me at alfredzhuang1234@gmail.com
 
 <!--
 **alfredzhuang/alfredzhuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
