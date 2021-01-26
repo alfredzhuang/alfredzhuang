@@ -1,6 +1,6 @@
 ### Hi, I'm Alfred! 👋
-🔭 I’m currently working on websites
-🌱 I’m currently learning Typescript and GraphQL
+- 🔭 I’m currently working on websites
+- 🌱 I’m currently learning Typescript and GraphQL
 - 📫 How to reach me: Feel free to email me at alfredzhuang1234@gmail.com
 
 <!--
