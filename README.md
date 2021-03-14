@@ -1,5 +1,5 @@
 ### Hi, I'm Alfred! 👋
-- 🌱 I’m currently learning Python, Typescript and GraphQL
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: Feel free to email me at alfredzhuang1234@gmail.com
 
 <!--
